@@ -1,0 +1,3 @@
+12;Bom
+23;Regular
+23;Ótimo
